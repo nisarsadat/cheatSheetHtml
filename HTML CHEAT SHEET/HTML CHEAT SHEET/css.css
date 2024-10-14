@@ -1,0 +1,136 @@
+*
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(151, 190, 206);
+}
+.h h1
+{
+    padding-bottom: 20px;
+}
+.h h1 , h2 , h3 , h4 , h5 , h6 
+{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(12, 11, 11);
+    font-family: cursive;
+}
+.h
+{
+    text-align: center;
+    padding-top: 20px;
+    
+.tab
+{
+
+    text-align: left;
+    padding-right: 12px;
+    padding-left: 12px;
+
+}
+.tab table
+{
+    border: 4px solid rgb(66, 48, 48);
+    border-radius: 13px;
+    background-color: rgb(221, 202, 202);
+
+    
+}
+.head{
+    background-color: rgb(235, 175, 96);
+}
+.tab table .head td
+{
+    color: rgb(13, 9, 14);
+    font-size: 14px;
+    font-weight: bold;
+    border: 4px solid blueviolet;
+    border-radius: 12px;
+}
+.tab table tr .li 
+{
+    padding-left: 30px;
+    color: black;
+}
+.tab table tr
+{
+
+    margin-left: 12px ;
+    padding-right: 12px;
+    border: 1px solid black;
+}
+
+.tab table tr td
+{
+    border: 2px solid rgb(7, 133, 179);
+    padding-left: 10px;
+    height: 50px;
+    color: rgb(17, 4, 17);
+    font-size: 10px;
+    font-family: cursive;
+    border-radius: 10px;
+    padding-bottom: 15px;
+    padding-top: 12px;
+    padding-right: 12px;
+    font-weight: bold;
+    
+}
+.tab table tr td p
+{
+    color: chartreuse;
+    font-size: 11px;
+    font-weight: bold;
+}
+.tab table tr td input
+{
+    border: 6px solid chartreuse;
+    padding-left: 20px;
+}
+.tab table tr td select
+{
+    width: 150px;
+    border: 6px solid chartreuse;
+}
+
+.tab table tr .color 
+{
+    color: rgb(139, 16, 74);
+    font-size: 14px;
+    font-weight: bold;
+    background-color: rgb(212, 65, 65);
+}
+.h .nisar1 h1
+{
+    color: darkmagenta;
+    text-align: center;
+    word-spacing: 40px;
+    padding-top: 30px;
+    padding-bottom: 40px;
+
+}
+.nisar
+{
+    background-color: rgb(118, 148, 66);
+}
+.nisar0
+{
+    background-color: rgb(155, 93, 187);
+}
+.nisar2
+{
+    background-color: rgb(136, 129, 129);
+}
+.nisar3
+{
+    background-color: rgb(97, 82, 182);
+}
+.nisar4
+{
+    background-color: rgb(190, 88, 15);
+}
